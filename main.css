@@ -34,18 +34,11 @@
 
 #nav{
 	padding-left: 40px;
-	color: white;
-}
-
-li{
 	list-style-type: none;
-}
-
-a{
 	text-decoration: none;
 	color: white;
 }
 
-a:hover{
+#nav:hover{
 	background-color: red;
 }
