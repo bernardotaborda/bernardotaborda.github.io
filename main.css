@@ -5,7 +5,28 @@
 
 #wrapper{
 	display: flex;
+	flex-direction: column;
 	width: 100vw;
 	height: 100vh;
-	background-color: darkslategray;
+	align-items: center;
+	justify-content: center;
+	background-color: black;
+}
+
+#content{
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	padding: 20px;
+	color: white;
+}
+
+#header{
+	text-align: center;
+	margin-bottom: 24px;
+}
+
+#nav{
+	padding-left: 40px;
+	color: white;
 }
