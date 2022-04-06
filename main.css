@@ -31,11 +31,6 @@
 	color: white;
 }
 
-a{
-	text-decoration: none;
+nav ul li{
+	list-style-type: none;
 }
-
-a:hover{
-	background-color: red;
-}
-
