@@ -30,3 +30,12 @@
 	padding-left: 40px;
 	color: white;
 }
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	background-color: red;
+}
+
